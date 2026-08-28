@@ -1,7 +1,6 @@
-<img width="1398" height="601" alt="RedPepper Horizontal" src="https://github.com/user-attachments/assets/100c16f0-6bb0-4606-91d4-737995db3df8" />
 Official VRS documentation and materials for Green Pepper Cup
 
-<h1 align="center">Green Pepper Cup </h1><img width="1379" height="601" alt="RedPepper Horizontal" src="https://github.com/user-attachments/assets/23dc7353-8e29-488f-8c2f-81b3a94a7951" />
+<h1 align="center">Green Pepper Cup </h1><img width="1398" height="601" alt="RedPepper Horizontal" src="https://github.com/user-attachments/assets/100c16f0-6bb0-4606-91d4-737995db3df8" />
 
 
 <p align="center">
