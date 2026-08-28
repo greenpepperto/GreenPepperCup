@@ -1,8 +1,8 @@
 # 🌶️ Green Pepper Cup  🌶
 
-> **Where Pressure Becomes Victory.**
+> **BRING THE HEAT. OWN THE GAME.**
 
-Green Pepper Cup I is a Counter-Strike 2 offline tournament hosted at **EXSAD Gaming Lounge, Barcelos, Portugal**, from **3–6 December 2026**.
+Green Pepper Cup  is a Counter-Strike 2 offline tournament hosted at **TBA, Portugal**, from **3–6 December 2026**.
 
 ## Tournament at a Glance
 
@@ -19,7 +19,7 @@ Green Pepper Cup I is a Counter-Strike 2 offline tournament hosted at **EXSAD Ga
 | 3rd–4th | €625 each |
 | Region | Global |
 | VRS | Valve Regional Standings compatible |
-| Venue | EXSAD Gaming Lounge, Barcelos, Portugal |
+| Venue | TBA, Portugal |
 | Event Dates | 3–6 December 2026 |
 | Registration Opens | 28 September 2026, 18:00 CET |
 | Registration Closes | 8 November 2026, 13:00 CET |
