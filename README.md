@@ -1,3 +1,20 @@
+Official VRS documentation and materials for Green Pepper Cup
+
+<h1 align="center">Green Pepper Cup </h1><img width="1379" height="601" alt="RedPepper Horizontal" src="https://github.com/user-attachments/assets/23dc7353-8e29-488f-8c2f-81b3a94a7951" />
+
+
+<p align="center">
+  <b>Counter-Strike 2 • Valve Regional Standings (VRS) Eligible</b><br/>
+  <b>Group Stage played on LAN  → Playoffs played on LAN at TBA, (Portugal)</b>
+</p>
+
+<p align="center">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Planning-informational">
+  <img alt="Game" src="https://img.shields.io/badge/Game-Counter--Strike%202-blue">
+  <img alt="Region" src="https://img.shields.io/badge/Region-Global%20(Portugal)-green">
+  <img alt="License" src="https://img.shields.io/badge/License-Valve%20Limited%20Tournament-lightgrey">
+</p>
+
 # 🌶️ Green Pepper Cup  🌶
 
 > **BRING THE HEAT. OWN THE GAME.**
