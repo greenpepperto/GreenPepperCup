@@ -8,13 +8,13 @@
 **Prize Pool:** €5,000  
 **Region:** Global  
 **VRS:** Valve Regional Standings compatible
-**Country:*PORTUGAL* 
+**Country**:PORTUGAL 
 
 ---
 
 ## 1. General Provisions
 
-Green Pepper Cup I is a Counter-Strike 2 competition held from 3 to 6 December 2026 at TBA.
+Green Pepper Cup is a Counter-Strike 2 competition held from 3 to 6 December 2026 at TBA.
 
 The competition is open to the Global region in accordance with Valve's regional eligibility rules.
 
@@ -68,7 +68,6 @@ The Group Stage uses a round-robin system.
 - Win: **3 points**
 - Loss: **0 points**
 
-The tournament also uses GSL progression principles where applicable to bracket advancement.
 
 ### 3.2 Group Stage Tiebreakers
 
