@@ -14,7 +14,7 @@
 
 ## 1. General Provisions
 
-Green Pepper Cup is a Counter-Strike 2 competition held from 3 to 6 December 2026 at TBA.
+Green Pepper Cup is a Counter-Strike 2 competition held from 3 to 6 December 2026 at NOVEZERO LAN , Vila Nova de Gaia, Portugal.
 
 The competition is open to the Global region in accordance with Valve's regional eligibility rules.
 
