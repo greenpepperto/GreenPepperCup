@@ -3,9 +3,13 @@
 ## Tournament Schedule
 
 **Location:** NOVEZERO LAN , Vila Nova de Gaia, Portugal
+
 **Dates:** 3–6 December 2026
+
 **Teams:** 16
+
 **Prize Pool:** €5,000
+
 **Game:** Counter-Strike 2
 
 ---
