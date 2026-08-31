@@ -37,7 +37,7 @@ Registration is handled by a team representative, who must provide all required 
 
 - Registration opens: **28 September 2026 at 18:00 CET**
 - Registration closes: **8 November 2026 at 13:00 CET**
-- Registration fee: **€300 + VAT per team**
+- Registration fee: **€500 per team**
 
 The first registered teams will be selected to participate.
 
