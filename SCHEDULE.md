@@ -63,7 +63,7 @@ All teams must remain available according to the rolling schedule.
 
 ## Group Stage — Groups A & B
 
-**Start Time:** 09:00
+**Start Time:** 09:00 GMT Timezone
 
 ### 🟦 GROUP A — ROUND-ROBIN
 
@@ -87,7 +87,7 @@ All teams must remain available according to the rolling schedule.
 
 ## 🍽️ LUNCH BREAK
 
-**16:00 – 16:45**
+**16:00 – 16:45 GMT Timezone**
 
 The lunch break begins only after the complete conclusion of Group A.
 
@@ -377,11 +377,14 @@ QF4                               │
 
 # SCHEDULE RULES
 
-* The tournament operates on a rolling schedule basis due to the Limitations of the Venue.
+* **All times listed in this schedule are based on the GMT timezone (UTC+0).**
+* **Due to venue and hardware limitations, the tournament operates on a Rolling Schedule basis.**
+* Only one match can be played at a time due to the available competition setup.
 * Match times are estimates and may change depending on tournament progress.
-* Matches may begin earlier if tournament administration determines that the event can progress.
+* Matches may begin earlier or later depending on the duration of previous matches and tournament operations.
+* Teams must be present at the venue and ready to play according to the rolling schedule.
+* Teams must remain available after their first match until they are eliminated from the tournament or their competition day has concluded.
 * Teams must be present 1 hour and 30 minutes before their first scheduled match.
-* Teams must remain available according to the rolling schedule after their first match.
 * A 15-minute match grace period applies.
 * Failure to be ready after the grace period may result in a forfeit.
 * Group Stage BO1 matches include a planned 30-minute technical and team changeover period between matches.
