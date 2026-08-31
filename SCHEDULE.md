@@ -38,7 +38,7 @@
 
 ## Schedule System
 
-The tournament operates on a **Rolling Schedule**.
+The tournament operates on a **Rolling Schedule due to the Venue Limitations**.
 
 ### Group Stage Timing
 
