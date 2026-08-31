@@ -4,7 +4,7 @@
 
 **Venue:** NOVEZERO LAN , Vila Nova de Gaia
 
-**Country**:PORTUGAL 
+**Country**: PORTUGAL 
 
 **Dates:** 3–6 December 2026  
 
