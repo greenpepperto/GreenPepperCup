@@ -36,11 +36,11 @@ Green Pepper Cup  is a Counter-Strike 2 offline tournament hosted at **NOVEZERO 
 | 3rd–4th | €625 each |
 | Region | Global |
 | VRS | Valve Regional Standings compatible |
-| Venue | TBA, Portugal |
+| Venue | NOVEZERO LAN ,Vila Nova de Gaia, Portugal |
 | Event Dates | 3–6 December 2026 |
 | Registration Opens | 28 September 2026, 18:00 CET |
 | Registration Closes | 8 November 2026, 13:00 CET |
-| Registration Fee | €300 + VAT per team |
+| Registration Fee | €500 |
 
 ## Competition Format
 
