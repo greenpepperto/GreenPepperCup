@@ -5,7 +5,7 @@ Official VRS documentation and materials for Green Pepper Cup
 
 <p align="center">
   <b>Counter-Strike 2 • Valve Regional Standings (VRS) Eligible</b><br/>
-  <b>Group Stage played on LAN  → Playoffs played on LAN at TBA, (Portugal)</b>
+  <b>Group Stage played on LAN  → Playoffs played on LAN at NOVEZERO LAN, Vila Nova de Gaia (Portugal)</b>
 </p>
 
 <p align="center">
