@@ -19,7 +19,7 @@ Official VRS documentation and materials for Green Pepper Cup
 
 > **BRING THE HEAT. OWN THE GAME.**
 
-Green Pepper Cup  is a Counter-Strike 2 offline tournament hosted at **TBA, Portugal**, from **3–6 December 2026**.
+Green Pepper Cup  is a Counter-Strike 2 offline tournament hosted at **NOVEZERO LAN ,Vila Nova de Gaia, Portugal**, from **3–6 December 2026**.
 
 ## Tournament at a Glance
 
