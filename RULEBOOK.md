@@ -4,7 +4,9 @@
 
 **Venue:** NOVEZERO LAN , Vila Nova de Gaia
 **Country**:PORTUGAL 
+
 **Dates:** 3–6 December 2026  
+
 **Teams:** 16  
 **Prize Pool:** €5,000  
 **Region:** Global  
