@@ -2,7 +2,7 @@
 
 ## Tournament Schedule
 
-**Location:** TBA
+**Location:** NOVEZERO LAN , Vila Nova de Gaia, Portugal
 **Dates:** 3–6 December 2026
 **Teams:** 16
 **Prize Pool:** €5,000
