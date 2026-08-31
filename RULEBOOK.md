@@ -2,7 +2,7 @@
 
 ## Official Counter-Strike 2 Tournament Regulations
 
-**Venue:** TBA 
+**Venue:** NOVEZERO LAN , Vila Nova de Gaia
 **Dates:** 3–6 December 2026  
 **Teams:** 16  
 **Prize Pool:** €5,000  
