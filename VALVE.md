@@ -16,7 +16,7 @@ This document contains the Valve/VRS-specific tournament information for Green P
 | Classification | Valve Regional Standings (VRS) Compatible |
 | Region | Global |
 | Teams | 16 |
-| Location | TBA, Portugal |
+| Location | NOVEZERO LAN, Vila Nova de Gaia, Portugal |
 | Dates | 3–6 December 2026 |
 | Prize Pool | €5,000 |
 | Format | Group Stage + Single-Elimination Playoffs |
@@ -73,8 +73,8 @@ The tournament Rulebook contains the complete roster-change provisions.
 
 ## Venue
 
-**TBA**  
-Portugal.
+**NOVEZERO LAN**  
+Vila Nova de Gaia , Portugal.
 
 All stages are played offline/on LAN.
 
