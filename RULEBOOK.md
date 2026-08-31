@@ -3,6 +3,7 @@
 ## Official Counter-Strike 2 Tournament Regulations
 
 **Venue:** NOVEZERO LAN , Vila Nova de Gaia
+
 **Country**:PORTUGAL 
 
 **Dates:** 3–6 December 2026  
