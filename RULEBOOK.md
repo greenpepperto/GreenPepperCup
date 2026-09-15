@@ -8,10 +8,10 @@
 
 **Dates:** 3–6 December 2026  
 
-**Teams:** 16  
+**Teams:** 8  
 **Prize Pool:** €5,000  
 **Region:** Global  
-**VRS:** Valve Regional Standings compatible
+**VRS:** Tier 2 VRS Tournament 
 
 ---
 
@@ -19,7 +19,7 @@
 
 Green Pepper Cup is a Counter-Strike 2 competition held from 3 to 6 December 2026 at NOVEZERO LAN , Vila Nova de Gaia, Portugal.
 
-The competition is open to the Global region in accordance with Valve's regional eligibility rules.
+The competition is open to the Global region in accordance with Valve's Tournament Operation Requirements.
 
 The tournament consists of two offline stages:
 
@@ -40,7 +40,7 @@ Registration is handled by a team representative, who must provide all required 
 
 - Registration opens: **28 September 2026 at 18:00 CET**
 - Registration closes: **8 November 2026 at 13:00 CET**
-- Registration fee: **€500 per team**
+- Registration fee: **€850 per team, excluding VAT**
 
 The first registered teams will be selected to participate.
 
@@ -64,43 +64,62 @@ Teams have a **15-minute grace period** from the scheduled match time. Exceeding
 
 ## 3. Tournament Format
 
-### 3.1 Group Stage Scoring
+### 3.1 Group Stage Format
 
-The Group Stage uses a round-robin system.
+The Group Stage uses a **GSL / Double Elimination** format.
 
-- Win: **3 points**
-- Loss: **0 points**
-
+- 2 GSL groups.
+- 4 teams per group.
+- Upper Bracket matches: **BO1**.
+- Lower Bracket matches: **BO3**.
+- 5 matches per group.
+- 10 Group Stage matches in total.
+- The top 3 teams from each group advance to the Playoffs.
+- The 4th-place team from each group is eliminated.
 
 ### 3.2 Group Stage Tiebreakers
 
-If two or more teams finish with the same number of points, the following criteria apply in order:
-
-1. Head-to-head result.
-2. Round difference across all group matches.
-3. Fewer total round losses across all group matches.
-4. Higher initial tournament seed.
+Group placement is determined by the GSL / Double Elimination results. Where an administrative tiebreaker is required, Tournament Administration will determine the applicable criteria.
 
 ### 3.3 Overall Format
 
-- 16 teams.
-- 4 groups of 4 teams.
-- Group matches: BO1 Round-Robin.
-- Top 2 teams from each group advance.
-- 8 teams advance to the Playoffs.
+- 8 teams.
+- 2 groups of 4 teams.
+- Group Stage: GSL / Double Elimination.
+- Upper Bracket: BO1.
+- Lower Bracket: BO3.
+- 6 teams advance to the Playoffs.
 - Playoffs: Single Elimination.
-- Playoff matches: BO3.
+- Quarterfinals: BO3.
+- Semifinals: BO3.
+- Grand Final: BO3.
+- No Third-Place Match.
 - Tournament duration: 4 days.
 
 ## 4. Tournament Schedule
 
-The detailed schedule depends on the final number of registered teams and tournament administration.
+The official tournament schedule runs from **3 to 6 December 2026** at NOVEZERO LAN, Vila Nova de Gaia, Portugal.
 
-The tournament follows a rolling schedule, meaning matches may start earlier depending on administration and the progress of other matches.
+The tournament operates on a **Rolling Schedule due to venue and hardware limitations**. Only one match can be played at a time.
 
-Each team must be present for its first match **1 hour and 30 minutes before** the scheduled start time.
+### Schedule Structure
 
-See [`SCHEDULE.md`](SCHEDULE.md).
+- **Day 1 — 3 December:** Group A
+- **Day 2 — 4 December:** Group B
+- **Day 3 — 5 December:** Playoffs — Quarterfinals
+- **Day 4 — 6 December:** Playoffs — Semifinals & Grand Final
+
+Estimated match blocks:
+
+- BO1: **45 minutes**
+- BO3: **2 hours and 15 minutes**
+- Technical / team changeover: **45 - 60 minutes**
+
+Match times are estimates and may move earlier or later depending on tournament progress and administration.
+
+Each team must be present **1 hour and 30 minutes before its first scheduled match** and must remain available according to the rolling schedule.
+
+See [`GREEN_PEPPER_CUP_I_SCHEDULE.md`](GREEN_PEPPER_CUP_I_SCHEDULE.md) for the complete schedule.
 
 ## 5. Settings and Maps
 
@@ -214,9 +233,58 @@ Disqualification for cheating, match-fixing, roster violations or severe rule br
 
 Prize money is paid to the registered team or representative through an invoice or applicable self-employed receipt.
 
+## Match Count
+
+The tournament consists of **15 official matches**:
+
+| Stage | Matches |
+|---|---:|
+| Group A | 5 |
+| Group B | 5 |
+| Quarterfinals | 2 |
+| Semifinals | 2 |
+| Grand Final | 1 |
+| **TOTAL** | **15** |
+
 ## 11. Valve Regional Standings (VRS)
 
-Green Pepper Cup  is compatible with the **Valve Regional Standings (VRS)** system.
+### 11.1 Tournament Seeding
+
+The tournament uses the **VRS Global Ranking** to determine the initial seeding.
+
+**Group A:** VRS Seeds #1, #4, #5, #8  
+**Group B:** VRS Seeds #2, #3, #6, #7
+
+The group allocation follows a snake-seeding structure.
+
+### 11.2 Playoff Seeding
+
+The six Playoff positions are assigned as follows:
+
+| Playoff Seed | Qualification |
+|---|---|
+| **#1** | Group A — 1st Place |
+| **#2** | Group B — 1st Place |
+| **#3** | Group A — 2nd Place |
+| **#4** | Group B — 2nd Place |
+| **#5** | Group A — 3rd Place |
+| **#6** | Group B — 3rd Place |
+
+Quarterfinals:
+
+- **QF1:** Seed #3 vs Seed #6
+- **QF2:** Seed #4 vs Seed #5
+
+Semifinals:
+
+- **SF1:** Seed #1 vs Winner QF1
+- **SF2:** Seed #2 vs Winner QF2
+
+Grand Final:
+
+- **Winner SF1 vs Winner SF2**
+
+Green Pepper Cup  is a Tier 2 Open LAN Tournament who operates with the **Valve Regional Standings (VRS)** system.
 
 Teams are **not required to have VRS points** to participate.
 
