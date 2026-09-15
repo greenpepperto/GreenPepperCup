@@ -119,7 +119,7 @@ Match times are estimates and may move earlier or later depending on tournament 
 
 Each team must be present **1 hour and 30 minutes before its first scheduled match** and must remain available according to the rolling schedule.
 
-See [`GREEN_PEPPER_CUP_I_SCHEDULE.md`](GREEN_PEPPER_CUP_I_SCHEDULE.md) for the complete schedule.
+See [`SCHEDULE.md`](SCHEDULE.md) for the complete schedule.
 
 ## 5. Settings and Maps
 
