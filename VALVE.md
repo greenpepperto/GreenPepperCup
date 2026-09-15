@@ -13,9 +13,9 @@ This document contains the Valve/VRS-specific tournament information for Green P
 | Tournament Name | Green Pepper Cup I |
 | Operator | Green Pepper Cup |
 | Game | Counter-Strike 2 |
-| Classification | Valve Regional Standings (VRS) Compatible |
+| Tier | VRS Tier 2 Tournament|
 | Region | Global |
-| Teams | 16 |
+| Teams | 8 |
 | Location | NOVEZERO LAN, Vila Nova de Gaia, Portugal |
 | Dates | 3–6 December 2026 |
 | Prize Pool | €5,000 |
@@ -23,7 +23,7 @@ This document contains the Valve/VRS-specific tournament information for Green P
 
 ## VRS Eligibility
 
-Green Pepper Cup  is compatible with the **Valve Regional Standings (VRS)** system.
+Green Pepper Cup  is a Tier 2 OPEN LAN Tournament in accordance with the **Valve Regional Standings (VRS)** system.
 
 Teams **do not need existing VRS points** to participate.
 
@@ -57,11 +57,12 @@ The tournament Rulebook contains the complete roster-change provisions.
 
 ### Group Stage
 
-- 16 teams.
-- 4 groups of 4.
-- BO1 Round-Robin.
-- Top 2 from each group advance.
-- 8 teams qualify for Playoffs.
+- 8 teams.
+- 2 groups of 4.
+- GSL Group Stage With Upper Bracket Matches played on  BO1 and Lower Bracket Matches played on BO3 .
+- Top 1 from each group advance to the Semi-Finals.
+- Top 2 & 3 from each group advance to the Quarter-Finals
+- 6 teams qualify for Playoffs.
 
 ### Playoffs
 
@@ -85,6 +86,8 @@ The tournament administration will operate the event according to its Rulebook a
 VRS compatibility does not mean that participation requires VRS points.
 
 All teams remain responsible for complying with applicable Valve eligibility requirements.
+
+This Tournament operates on  Sign ups  First come First Served Basis,
 
 ## Important Dates
 
