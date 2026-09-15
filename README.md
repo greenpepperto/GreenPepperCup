@@ -121,7 +121,7 @@ The official tournament runs from **3–6 December 2026** at NOVEZERO LAN, Vila 
 ## Repository Documents
 
 - [`RULEBOOK.md`](RULEBOOK.md) — Official tournament regulations and competition rules.
-- [`GREEN_PEPPER_CUP_I_SCHEDULE.md`](GREEN_PEPPER_CUP_I_SCHEDULE.md) — Complete tournament schedule and match structure.
+- [`SCHEDULE.md`](SCHEDULE.md) — Complete tournament schedule and match structure.
 - [`VALVE.md`](VALVE.md) — Valve Regional Standings/VRS information and event data.
 
 
@@ -164,4 +164,3 @@ The competition regulations cover registration, roster changes, match administra
 ## Disclaimer
 
 Green Pepper Cup is not affiliated with Valve Corporation. Valve/VRS eligibility and compliance remain subject to Valve's applicable rules and requirements.
-
