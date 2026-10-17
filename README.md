@@ -29,7 +29,7 @@ Official tournament information, rules, schedule, and documentation for Green Pe
 - **Tournament Rules:** [Read the Rulebook](RULEBOOK.md)
 - **Tournament Schedule:** [View the Schedule](SCHEDULE.md)
 - **Official X (Twitter):** [@GreenPepperTO](https://x.com/GreenPepperTO)
-- **Registration:** Details to be announced by the organizers
+- **Registration:** 24th October 2026
 - **Entry Fee:** €250 per team; payment instructions will be provided by the organizers
 - **Platform:** All official matches are played through FACEIT
 - **Anti-Cheat:** FACEIT Anti-Cheat is mandatory for all players in official matches
@@ -247,7 +247,11 @@ Refer to the [Schedule](SCHEDULE.md) for proposed playoff round windows and matc
 
 ## Prize Pool
 
-The total prize pool is **€5,000**, distributed as follows:\n\n| Placement | Prize |\n|---|---:|\n| 1st Place | **€2,500** |\n| 2nd Place | **€1,250** |\n| 3rd Place | **€750** |\n| 4th Place | **€500** |\n\nTotal entry-fee revenue from 24 teams paying €250 each is €6,000 before costs, taxes, or refunds.
+The total prize pool is **€5,000**, distributed as follows:
+🥇 1st — €2,500
+🥈 2nd — €1,250
+🥉 3rd — €625
+   4th — €625
 
 Prize payments and eligibility are subject to the tournament rules and resolution of any pending disputes or disciplinary matters.
 
@@ -269,4 +273,4 @@ Participants are responsible for reading the current versions of the official do
 
 ---
 
-© Green Pepper Season 1
+© Green Pepper Tournament Organizer
