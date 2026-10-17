@@ -1,166 +1,272 @@
-Official VRS documentation and materials for Green Pepper Cup
+# 🌶️ Green Pepper Season 1
 
-<h1 align="center">Green Pepper Cup </h1><img width="1398" height="601" alt="RedPepper Horizontal" src="https://github.com/user-attachments/assets/100c16f0-6bb0-4606-91d4-737995db3df8" />
+Official tournament information, rules, schedule, and documentation for Green Pepper Season 1.
 
+<h1 align="center">Green Pepper Season 1</h1>
+<img width="1398" height="601" alt="Green Pepper Season 1 banner" src="https://github.com/user-attachments/assets/100c16f0-6bb0-4606-91d4-737995db3df8" />
 
 <p align="center">
-  <b>Counter-Strike 2 • Valve Regional Standings (VRS) Eligible</b><br/>
-  <b>Group Stage played on LAN  → Playoffs played on LAN at NOVEZERO LAN, Vila Nova de Gaia (Portugal)</b>
+  <b>Counter-Strike 2 • Europe • Online Tournament</b><br/>
+  <b>VRS-Based Direct Playoff Qualification</b>
 </p>
 
 <p align="center">
   <img alt="Status" src="https://img.shields.io/badge/Status-Planning-informational">
   <img alt="Game" src="https://img.shields.io/badge/Game-Counter--Strike%202-blue">
-  <img alt="Region" src="https://img.shields.io/badge/Region-Global%20(Portugal)-green">
-  <img alt="License" src="https://img.shields.io/badge/License-Valve%20Limited%20Tournament-lightgrey">
+  <img alt="Teams" src="https://img.shields.io/badge/Teams-24-orange">
+  <img alt="Platform" src="https://img.shields.io/badge/Platform-FACEIT-red">
 </p>
 
-# 🌶️ Green Pepper Cup  🌶
+**Online European Tier-2 CS2 Tournament · 24 Teams · €250 Entry Fee per Team · €5,000 Prize Pool · FACEIT · FACEIT Anti-Cheat Required**
 
-> **BRING THE HEAT. OWN THE GAME.**
+> **One Season. One Champion.**  
+> Green Pepper Season 1 is an open-registration online European Counter-Strike 2 competition designed around competitive integrity, transparent seeding, and a path to the playoffs through VRS-based direct qualification and a Swiss Stage. VRS standings are used for eligibility and seeding; they do not constitute direct invitations.
 
-Green Pepper Cup  is a Counter-Strike 2 offline tournament hosted at **NOVEZERO LAN ,Vila Nova de Gaia, Portugal**, from **3–6 December 2026**.
+---
 
-## Tournament at a Glance
+## Quick Links
 
-| Item | Details |
+- **Tournament Rules:** [Read the Rulebook](RULEBOOK.md)
+- **Tournament Schedule:** [View the Schedule](SCHEDULE.md)
+- **Official X (Twitter):** [@GreenPepperTO](https://x.com/GreenPepperTO)
+- **Registration:** Details to be announced by the organizers
+- **Entry Fee:** €250 per team; payment instructions will be provided by the organizers
+- **Platform:** All official matches are played through FACEIT
+- **Anti-Cheat:** FACEIT Anti-Cheat is mandatory for all players in official matches
+
+---
+
+## Tournament Overview
+
+| Category | Details |
 |---|---|
-| Game | Counter-Strike 2 |
-| Teams | 8 |
-| Format | 2 GSL Groups → Playoffs |
-| Group Stage | GSL / Double Elimination (BO1/BO3) |
-| Playoffs | Single-Elimination BO3 |
-| Prize Pool | €5,000 |
-| 1st | €2,500 |
-| 2nd | €1,250 |
-| 3rd–4th | €625 each |
-| Region | Global |
-| VRS | Tier 2 OPEN LAN Tournament |
-| Venue | NOVEZERO LAN ,Vila Nova de Gaia, Portugal |
-| Event Dates | 3–6 December 2026 |
-| Registration Opens | 28 September 2026, 18:00 CET |
-| Registration Closes | 8 November 2026, 13:00 CET |
-| Registration Fee | €850 per team, excluding VAT |
+| Tournament | **Green Pepper Season 1** |
+| Game | **Counter-Strike 2 (CS2)** |
+| Region | **Europe** |
+| Location | **Online** |
+| Teams | **24 teams** |
+| Entry Fee | **€250 per team** |
+| Platform | **FACEIT** |
+| Anti-Cheat | **FACEIT Anti-Cheat — mandatory** |
+| Direct Playoff Qualification | **8 highest-ranked eligible VRS teams among registered entrants** |
+| Swiss Stage | **16 teams — BO3** |
+| Swiss Qualification | **3 wins to qualify; 3 losses to be eliminated** |
+| Playoffs | **16-team Single-Elimination bracket** |
+| Playoff Matches | **BO3** |
+| Grand Final | **BO5** |
+| Prize Pool | **€5,000 total** |
+| Official Social Media | [@GreenPepperTO](https://x.com/GreenPepperTO) |
 
-## Competition Format
+Final match times, registration/payment instructions, and VRS eligibility details will be confirmed through official Green Pepper channels.
 
-- **8 teams**.
-- **2 GSL groups of 4 teams**.
-- Group Stage: **GSL / Double Elimination**.
-- Upper Bracket matches: **BO1**.
-- Lower Bracket matches: **BO3**.
-- **5 matches per group**, 10 Group Stage matches total.
-- The **top 3 teams from each group** advance to the Playoffs.
-- The **4th-place team from each group** is eliminated.
-- Playoffs are **Single Elimination** and played as **BO3**.
-- Quarterfinals: **2 BO3 matches**.
-- Semifinals: **2 BO3 matches**.
-- Grand Final: **1 BO3 match**.
-- **No Third-Place Match**.
-- Tournament duration: **4 days**.
-- Due to venue and hardware limitations, the tournament uses a **rolling schedule** with only one match played at a time.
+---
 
+## Tournament Classification
 
-## Seeding
+Green Pepper Season 1 is an open-registration online European Counter-Strike 2 competition. All teams must register through the official process and comply with the Rulebook, FACEIT requirements, and instructions from tournament administration. This is a structured competitive event, not a casual community cup.
 
-Seeding uses the **Valve Regional Standings (VRS)** where available. The tournament uses a snake-seeding structure:
+Participation is subject to registration acceptance, roster checks, and eligibility verification. VRS standings are used for transparent seeding and direct playoff qualification; there are no direct VRS invitations. The eight highest-ranked eligible VRS teams among accepted registered entrants receive direct playoff places as a seeding outcome. Qualification is based on the official Valve Regional Standings (VRS) snapshot taken on 2 November 2026, subject to the eligibility conditions set out in the [Rulebook](RULEBOOK.md).
 
-- **Group A:** VRS Seeds #1, #4, #5, #8
-- **Group B:** VRS Seeds #2, #3, #6, #7
+## Registration and Entry Fee
 
-For teams without VRS, alternative criteria are applied according to the Rulebook. The applicable VRS snapshot is **2 November 2026**.
+- The entry fee is **€250 per team**.
+- The tournament is limited to **24 accepted teams**.
+- Registration may close early if all team slots are filled.
+- Registration is not complete until the required registration and payment steps have been completed.
+- Payment instructions and the registration link will be published through official Green Pepper channels.
+- Teams must submit an eligible roster and accurate player/account information.
+- Roster changes and substitutions are governed by the [Rulebook](RULEBOOK.md).
 
+## Roster and Eligibility
 
-## Registration
+- The tournament is intended for teams competing in the **European region**.
+- All players must use their own registered Steam and FACEIT accounts.
+- FACEIT Anti-Cheat is mandatory for all official matches.
+- Account sharing, unauthorized stand-ins, cheating, and attempts to bypass tournament integrity checks are prohibited.
+- Roster changes and substitutions must comply with the Rulebook and receive administrative approval where required.
+- Tournament administration may request information or evidence to verify player and roster eligibility.
 
-Registration opens **28 September 2026 at 18:00 CET**.
+---
 
-The first registered teams are selected to participate. Registration is only complete after payment confirmation.
+### Roster & Core Policy
 
-See [`RULEBOOK.md`](RULEBOOK.md) for eligibility, roster changes, equipment requirements, penalties and all competition rules.
+Green Pepper does not enforce a full roster lock during the Swiss Stage. Teams may adjust players before the Playoffs, subject to tournament administration approval. Approved roster changes do not alter the five-player reference roster used to determine roster continuity.
 
-## Prize Pool
+#### VRS-Matched Teams
 
-**€5,000 total**
+- A VRS-matched team must field at least **three (3) of the five players** listed on its matched VRS roster in the **2 November 2026 VRS snapshot** for the entirety of every match, including the Playoffs.
+- Any three of those five players may satisfy this requirement; the same three players are not required in every match.
+- Teams must keep at least three of those snapshot players on their official tournament roster throughout the tournament. Falling below three may result in disqualification.
+- These requirements remain in effect regardless of approved roster changes or substitutions.
 
-- 🥇 1st — €2,500
-- 🥈 2nd — €1,250
-- 🥉 3rd — €625
-- 4th — €625
+#### Non-VRS Teams
 
-## Tournament Schedule
+- A team that is not matched to a VRS roster must field at least **three (3) of its five original registered starters** for the entirety of every match, including the Playoffs.
+- Any three of those original starters may satisfy this requirement; the same three players are not required in every match.
+- Later roster additions do not become original registered starters and do not change the five-player reference roster.
 
-The official tournament runs from **3–6 December 2026** at NOVEZERO LAN, Vila Nova de Gaia, Portugal.
+#### Duplicate Core Restrictions
 
-| Day | Date | Stage | Start | Estimated End |
-|---|---|---|---|---|
-| Day 1 | December 3, 2026 | Group A | 09:00 GMT | 18:30 |
-| Day 2 | December 4, 2026 | Group B | 09:00 GMT | 18:30 |
-| Day 3 | December 5, 2026 | Quarterfinals | 10:00 GMT | 15:00 |
-| Day 4 | December 6, 2026 | Semifinals & Grand Final | 11:00 GMT | 20:00 |
+- No two teams may share three or more players from their applicable five-player reference rosters.
+- Teams found to violate this restriction may be disqualified.
 
-### Group Stage
+#### Roster Changes & Substitutions
 
-- **Day 1:** Group A — VRS Seeds #1, #4, #5, #8
-- **Day 2:** Group B — VRS Seeds #2, #3, #6, #7
-- BO1 estimated block: **45 minutes**
-- BO3 estimated block: **2 hours 15 minutes**
-- Technical/team changeover: **30 minutes**
-- Teams must arrive **1 hour 30 minutes before their first scheduled match**.
-- A **15-minute grace period** applies.
-- Exact times may move according to tournament progress and administration.
+- **Swiss Stage:** Starters and substitutes may be adjusted with tournament administration approval.
+- **Playoffs:** Teams may make up to **two (2) substitute roster changes in total**, limited to the Sub 1 / Sub 2 slots and subject to administration approval.
+- Replacing one player in either substitute slot counts as one change. Replacing both substitute players counts as two changes.
+- Using an already registered substitute does not count as a substitute roster change.
+- The applicable five-player reference roster remains fixed throughout the tournament, and every lineup must satisfy the relevant three-of-five requirement.
+
+#### Coach Substitution Rule
+
+Registered team coaches may substitute as players only if they are listed on the official roster before the match starts, meet all eligibility requirements, and the lineup continues to satisfy the applicable three-of-five requirement.
+
+---
+
+## Tournament Format
+
+### VRS Direct Qualification
+
+**Eight teams qualify directly for the 16-team Playoffs** based on the official Valve Regional Standings (VRS).
+
+- Direct places go to the eight highest-ranked eligible teams among accepted tournament entrants.
+- The ranking snapshot used is the official VRS ranking taken on **2 November 2026**. Registration remains open until 15 November; direct places are awarded among eligible accepted entrants using that fixed snapshot.
+- Teams must be registered, accepted, and eligible to receive a direct place.
+- If a direct-qualifying team is not registered or is ruled ineligible, the place passes to the next-highest-ranked eligible registered team.
+- The organizers will publish the VRS snapshot date and list of direct qualifiers before the Swiss Stage begins.
+
+### Swiss Stage
+
+The **16 teams that do not receive a direct VRS playoff place** compete in the Swiss Stage.
+
+- Format: **16-team Swiss Stage**
+- Match format: **Best-of-Three (BO3)**
+- Qualification: A team qualifies after recording **3 match wins**.
+- Elimination: A team is eliminated after recording **3 match losses**.
+- Advancement: **8 teams** qualify from the Swiss Stage to complete the 16-team Playoff field.
+- Teams are paired against opponents with the same or a similar match record.
+- Teams will not face the same opponent more than once.
+- Pairings, seeding, and tiebreak procedures will be published before the first round.
+
+Swiss Stage results and qualification are governed by the [Rulebook](RULEBOOK.md). Match windows and any rescheduling must follow the official [Schedule](SCHEDULE.md) and administrative instructions.
 
 ### Playoffs
 
-- **Quarterfinals:** #3 vs #6 and #4 vs #5
-- **Semifinals:** #1 vs Winner QF1 and #2 vs Winner QF2
-- **Grand Final:** Winner SF1 vs Winner SF2
-- All playoff matches are **BO3**.
-- No third-place match.
+The Playoffs feature **16 teams** in a **Single-Elimination** bracket:
 
-## Repository Documents
+- **8 VRS direct qualifiers**
+- **8 Swiss Stage qualifiers**
+- Standard playoff matches: **BO3**
+- Grand Final: **BO5**, unless the organizers announce otherwise before the Playoffs begin
+- A team is eliminated after one playoff match loss.
+- The bracket and seeding plan will be published by tournament administration after Swiss qualification is complete.
 
-- [`RULEBOOK.md`](RULEBOOK.md) — Official tournament regulations and competition rules.
-- [`SCHEDULE.md`](SCHEDULE.md) — Complete tournament schedule and match structure.
-- [`VALVE.md`](VALVE.md) — Valve Regional Standings/VRS information and event data.
+---
 
+### Seeding Integrity Policy
 
-## Rulebook Summary
+- VRS matching uses the fixed **2 November 2026 VRS snapshot**.
+- A team is considered VRS-matched when at least three of its registered starting players appear on the same official VRS roster. Substitutes are not counted for the initial matching decision.
+- VRS-matched teams must field at least three players from that matched five-player VRS roster throughout every match.
+- Non-VRS teams must field at least three of their five original registered starters throughout every match.
+- The qualifying three players may differ between matches.
+- Direct playoff qualification is determined by VRS rank among eligible, accepted registered entrants; it does not mean a team has been invited to the tournament.
+- Seeding does not create a full roster lock before the Playoffs.
+- Teams disqualified for roster-continuity violations will lose any seeded or direct-qualification position, and tournament administration may award the place to the next eligible team.
 
-The competition regulations cover registration, roster changes, match administration, map/server settings, tactical pauses, forbidden actions, withdrawals, prize eligibility, equipment and venue conduct, VRS seeding, and tournament administration.
+---
 
-### Registration & Rosters
+## Competitive Platform and Anti-Cheat
 
-- Registration opens **28 September 2026 at 18:00 CET**.
-- Registration closes **8 November 2026 at 13:00 CET**.
-- Registration fee: **€850 per team, excluding VAT**.
-- A maximum of **two player changes** is permitted after roster submission.
-- Teams receive a **15-minute match grace period**; exceeding it can result in a default loss.
+### FACEIT
 
-### Competition Rules
+All official matches must be played on the designated **FACEIT** tournament infrastructure. Players must join the correct match room, use their registered accounts, and follow the instructions provided by tournament administration.
 
-- Round time: **1:55**
-- Freeze time: **15 seconds**
-- Buy time: **20 seconds**
-- Overtime start money: **$12,500**
-- Overtime mode: **BO6**
-- Agent skins: **Not allowed**
-- Map pool: **Ancient, Cache, Dust II, Inferno, Mirage, Nuke, Anubis**
-- BO1 and BO3 veto procedures follow the official Rulebook.
-- Each team receives **3 tactical pauses per match**, with **1 additional pause in overtime**.
-- Coaches may speak only during tactical pauses and side switches.
-- Unfair software/hardware, exploits, and unauthorized outside communication are prohibited.
+### FACEIT Anti-Cheat
 
-### Prize Pool & Administration
+**FACEIT Anti-Cheat is mandatory for all players in official matches.**
 
-- Total prize pool: **€5,000**
-- 1st: **€2,500**
-- 2nd: **€1,250**
-- 3rd: **€625**
-- 4th: **€625**
-- Prize eligibility may be forfeited following disqualification for cheating, match-fixing, roster violations, or severe rule breaches.
-- Tournament Administration has final authority on rules and situations not explicitly covered.
+- Players must have FACEIT Anti-Cheat running whenever required.
+- Matches may not proceed if a player fails to meet the Anti-Cheat requirement.
+- Cheating, unauthorized software, account sharing, and attempts to bypass Anti-Cheat are prohibited.
+- Violations may result in a round, map, or match loss, disqualification, or further disciplinary action.
 
-## Disclaimer
+### Region and Servers
 
-Green Pepper Cup is not affiliated with Valve Corporation. Valve/VRS eligibility and compliance remain subject to Valve's applicable rules and requirements.
+- Tournament region: **Europe**
+- Tournament location: **Online**
+- Teams must use the official match server selected through FACEIT or designated by tournament administration.
+- Players are responsible for ensuring that their connection and equipment are suitable for online competition.
+
+---
+
+## Match Integrity and Administration
+
+Green Pepper Season 1 expects all participants to compete fairly and professionally.
+
+Prohibited conduct includes, but is not limited to:
+
+- Cheating or using unauthorized third-party software
+- Sharing accounts or using unauthorized stand-ins
+- Stream sniping or receiving outside information during a match
+- Exploiting game bugs to gain an unfair advantage
+- Match-fixing or intentionally manipulating results
+- Betting on matches when prohibited by the Rulebook
+- Harassment, threats, discrimination, or intentional match disruption
+- Refusing to follow reasonable instructions from tournament administrators
+
+Teams should preserve relevant demos, screenshots, recordings, and FACEIT match information if an incident or protest occurs. Protests must be submitted through the official channel and within the deadlines specified in the Rulebook.
+
+Tournament administration has the authority to interpret and enforce the rules, investigate incidents, and issue penalties where appropriate.
+
+---
+
+## Scheduling
+
+The proposed timeline and match windows are published in [SCHEDULE.md](SCHEDULE.md). The schedule is provisional until confirmed by Green Pepper administration.
+
+The current proposed timeline includes:
+
+| Date | Milestone |
+|---|---|
+| 24 October 2026 | Registration opens |
+| 2 November 2026 | VRS ranking snapshot |
+| 15 November 2026 | Registration closes |
+| 16–20 November 2026 | Roster, payment and eligibility verification |
+| 22 November 2026 | VRS direct qualifiers announced |
+| 24–27 November 2026 | Swiss seeding and match schedule published |
+| 28 November 2026 | Tournament begins — Swiss Stage |
+| 28 November – 6 December 2026 | Swiss Stage |
+| 8–12 December 2026 | Playoffs |
+| 13 December 2026 | Proposed Grand Final |
+
+Refer to the [Schedule](SCHEDULE.md) for proposed playoff round windows and match scheduling guidelines. The official announcements take precedence if dates change.
+
+---
+
+## Prize Pool
+
+The total prize pool is **€5,000**, distributed as follows:\n\n| Placement | Prize |\n|---|---:|\n| 1st Place | **€2,500** |\n| 2nd Place | **€1,250** |\n| 3rd Place | **€750** |\n| 4th Place | **€500** |\n\nTotal entry-fee revenue from 24 teams paying €250 each is €6,000 before costs, taxes, or refunds.
+
+Prize payments and eligibility are subject to the tournament rules and resolution of any pending disputes or disciplinary matters.
+
+---
+
+## Tournament Documents
+
+- [**RULEBOOK.md**](RULEBOOK.md) — Tournament rules, Swiss Stage, VRS qualification, playoff format, match procedures, penalties, and administration.
+- [**SCHEDULE.md**](SCHEDULE.md) — Proposed timeline, Swiss Stage windows, playoff schedule, and match-day information.
+
+Participants are responsible for reading the current versions of the official documents before playing.
+
+## Official Tournament Identity
+
+**GREEN PEPPER SEASON 1**  
+*One Season. One Champion.*
+
+**Bring the Heat. Own the Game.**
+
+---
+
+© Green Pepper Season 1
